@@ -16,9 +16,10 @@
         android:text="blue"/>
 
     <EditText
+        android:background="#ff0000"
         android:id="@+id/edt"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="bluebluelbue"/>
+        android:text="88888"/>
 
 </LinearLayout>
